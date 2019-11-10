@@ -1,0 +1,6 @@
+##### 代码概述 #####
+
+load_data.py：加载数据的文件
+knn.py：实现一个自己的kNN分类器
+knnClassifier.py：使用sklearn中的kNN分类器
+model_selection.py：自定义数据集划分
